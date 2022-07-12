@@ -1,2 +1,2 @@
 # artisan
-A web application for job activity
+A web application to search for job activities in an area
